@@ -29,5 +29,4 @@ Le projet implémentera un système de gestion des threads POSIX pour représent
 ## Structure du Projet
 
 - `Projet.c` : Fichier principal contenant le code de gestion des threads et de l'exclusion mutuelle.
-- `Makefile` : Fichier pour la compilation et l'exécution du programme.
 - `README.md` : Ce fichier décrivant le projet, ses objectifs et son implémentation.
